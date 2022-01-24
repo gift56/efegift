@@ -1,0 +1,24 @@
+body{
+    margin: 0px;
+}
+header{
+    background-color: gold;
+    display: flex;
+    justify-content: space-between;
+}
+.logo img{
+    height:70px;
+    width: 60px;
+}
+.search{
+    width: 50px;
+    border-radius: 2px solid black;
+}
+.list{
+    list-style-type: none;
+    justify-content: space-between;
+    display: flex;
+}
+.links{
+    width: 40%;
+}

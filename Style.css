@@ -1,0 +1,32 @@
+#t-style{
+    background-color: brown;
+    border:2px solid black;
+    width: 600px;
+    font-family: poppins;
+}
+#t-style thead{
+    color:blanchedalmond;
+    background-color:blue;
+    font-size: 20px solid;
+    }
+#t-style td{
+    border: 2px solid;
+}
+#t-style tr td{
+    padding: 40px;
+    border: 2px solid black;
+}
+#tr{
+    border: blueviolet;
+}
+#different{
+    border:2px solid black;
+    width: 600px;
+}
+#tr{
+    padding: 50px;
+    border: 1px solid black;
+}
+#mention{
+    background-color: blue;
+}
